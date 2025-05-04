@@ -1,0 +1,246 @@
+# Directories that have the .acf files
+/home/saph/.steam/debian-installation/steamapps
+/media/saph/Storage/SteamLibrary/steamapps
+
+# make a list of only the files ending in .acf in these two Directories
+# heres an example of the data that lies in the file
+
+  "AppState"
+  {
+          "appid"         "1070560"
+          "universe"              "1"
+          "name"          "Steam Linux Runtime 1.0 (scout)"
+          "StateFlags"            "4"
+          "installdir"            "SteamLinuxRuntime"
+          "LastUpdated"           "1739448731"
+          "LastPlayed"            "0"
+          "SizeOnDisk"            "13004"
+          "StagingSize"           "0"
+          "buildid"               "15348173"
+          "LastOwner"             "0"
+          "UpdateResult"          "0"
+          "BytesToDownload"               "0"
+          "BytesDownloaded"               "0"
+          "BytesToStage"          "0"
+          "BytesStaged"           "0"
+          "TargetBuildID"         "0"
+          "AutoUpdateBehavior"            "0"
+          "AllowOtherDownloadsWhileRunning"               "0"
+          "ScheduledAutoUpdate"           "0"
+          "InstalledDepots"
+          {
+                  "1070561"
+                  {
+                          "manifest"              "1466730401947067346"
+                          "size"          "13004"
+                  }
+          }
+          "UserConfig"
+          {
+          }
+          "MountedConfig"
+          {
+          }
+  }
+
+  "AppState"
+  {
+          "appid"         "1118310"
+          "universe"              "1"
+          "name"          "RetroArch"
+          "StateFlags"            "4"
+          "installdir"            "RetroArch"
+          "LastUpdated"           "1745863841"
+          "LastPlayed"            "1746052948"
+          "SizeOnDisk"            "731250720"
+          "StagingSize"           "0"
+          "buildid"               "18265107"
+          "LastOwner"             "76561198015112123"
+          "DownloadType"          "1"
+          "UpdateResult"          "0"
+          "BytesToDownload"               "48749104"
+          "BytesDownloaded"               "48749104"
+          "BytesToStage"          "319722882"
+          "BytesStaged"           "319722882"
+          "TargetBuildID"         "18265107"
+          "AutoUpdateBehavior"            "0"
+          "AllowOtherDownloadsWhileRunning"               "0"
+          "ScheduledAutoUpdate"           "0"
+          "InstalledDepots"
+          {
+                  "1118314"
+                  {
+                          "manifest"              "1402520768248239908"
+                          "size"          "432504409"
+                  }
+                  "1656180"
+                  {
+                          "manifest"              "1790108264474076611"
+                          "size"          "24488174"
+                          "dlcappid"              "1227449"
+                  }
+                  "1790080"
+                  {
+                          "manifest"              "4618196218942457765"
+                          "size"          "5125274"
+                          "dlcappid"              "1227444"
+                  }
+                  "1829871"
+                  {
+                          "manifest"              "5727436502249891927"
+                          "size"          "21333219"
+                          "dlcappid"              "1829870"
+                  }
+                  "1843611"
+                  {
+                          "manifest"              "7543108171980569360"
+                          "size"          "13031780"
+                          "dlcappid"              "1843610"
+                  }
+                  "1843661"
+                  {
+                          "manifest"              "499588821807412135"
+                          "size"          "1152211"
+                          "dlcappid"              "1843660"
+                  }
+                  "1844871"
+                  {
+                          "manifest"              "974030909045788479"
+                          "size"          "207898"
+                          "dlcappid"              "1844870"
+                  }
+                  "1844931"
+                  {
+                          "manifest"              "1734639466766670865"
+                          "size"          "60371"
+                          "dlcappid"              "1844930"
+                  }
+                  "1876451"
+                  {
+                          "manifest"              "2733770841241151993"
+                          "size"          "163873"
+                          "dlcappid"              "1876450"
+                  }
+                  "1905201"
+                  {
+                          "manifest"              "7320349849834858430"
+                          "size"          "7268204"
+                          "dlcappid"              "1905200"
+                  }
+                  "1985101"
+                  {
+                          "manifest"              "7136913668640792695"
+                          "size"          "4104193"
+                          "dlcappid"              "1985100"
+                  }
+                  "2004071"
+                  {
+                          "manifest"              "6212691792235133004"
+                          "size"          "4494847"
+                          "dlcappid"              "2004070"
+                  }
+                  "2004141"
+                  {
+                          "manifest"              "191820576607132546"
+                          "size"          "2334614"
+                          "dlcappid"              "2004140"
+                  }
+                  "2008301"
+                  {
+                          "manifest"              "7803954591388574593"
+                          "size"          "244327"
+                          "dlcappid"              "2008300"
+                  }
+                  "2010122"
+                  {
+                          "manifest"              "8094057447804532182"
+                          "size"          "137749"
+                          "dlcappid"              "2010120"
+                  }
+                  "2062461"
+                  {
+                          "manifest"              "4456167280818265651"
+                          "size"          "893882"
+                          "dlcappid"              "2062460"
+                  }
+                  "2066881"
+                  {
+                          "manifest"              "7851772004683349201"
+                          "size"          "294155"
+                          "dlcappid"              "2066880"
+                  }
+                  "2234341"
+                  {
+                          "manifest"              "8225570902324759076"
+                          "size"          "3715533"
+                          "dlcappid"              "2234340"
+                  }
+                  "2246911"
+                  {
+                          "manifest"              "6984051423342396282"
+                          "size"          "102317"
+                          "dlcappid"              "2246910"
+                  }
+                  "2301081"
+                  {
+                          "manifest"              "6454502105356884326"
+                          "size"          "679981"
+                          "dlcappid"              "2301080"
+                  }
+                  "2345801"
+                  {
+                          "manifest"              "2275048378178444075"
+                          "size"          "201860435"
+                          "dlcappid"              "2345800"
+                  }
+                  "2388331"
+                  {
+                          "manifest"              "3420232124036987093"
+                          "size"          "474821"
+                          "dlcappid"              "2388330"
+                  }
+                  "2857801"
+                  {
+                          "manifest"              "3715732956123916152"
+                          "size"          "734851"
+                          "dlcappid"              "2857800"
+                  }
+                  "2862101"
+                  {
+                          "manifest"              "638737485863296359"
+                          "size"          "2857297"
+                          "dlcappid"              "2862100"
+                  }
+                  "3005611"
+                  {
+                          "manifest"              "3764346075223965889"
+                          "size"          "2986305"
+                          "dlcappid"              "3005610"
+                  }
+          }
+          "UserConfig"
+          {
+                  "language"              "english"
+                  "optionaldlc"           "1227444,1227449"
+          }
+          "MountedConfig"
+          {
+                  "language"              "english"
+                  "optionaldlc"           "1227444,1227449"
+          }
+  }
+
+# parse each file that ends in .acf,
+  if it has a line that contains "name" AND a line that contains "appid"
+    scrape it for the name and the appid
+    then pass them along for storage (consider sending the path as well)
+
+# to keep record of all these a global dictionary should be made
+  if have the app id and we need the game name we should have appid as key
+  if are looking for the proper folder for the game we already have in mind, name should be the key
+  regardless, it should have an option for listing the pairs
+  (also consider having an additional value that holds the .acf file path, 
+  potentially able to hold multiples incase its present in multiple locations) 
+
+    
+

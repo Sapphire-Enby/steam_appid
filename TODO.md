@@ -1,0 +1,23 @@
+### Directories that have the .acf files
+___
+"/home/saph/.steam/debian-installation/steamapps",
+"/media/saph/Storage/SteamLibrary/steamapps"
+___
+# TODO
+1. make a list of only the files ending in .acf in these two Directories
+2. make sure that the entries in the list are full filepaths)
+3. pass each file path into a acf_handler function:
+ 
+- [x] afc_handler
+
+    - [x] Sanity Test: Move on to next acf file if fail
+      - has a line that contains "name" 
+      - AND a line that contains "appid"
+
+    - [x] on Pass:
+      - give game name and appid values to whatevers managing the list (consider sending the path as well)
+
+- [ ] List handlerer:
+  - [x] a global dictorary with appids as keys and values being name and filepath 
+  - [x] need to figure out a way to send a game name and have it return the id, 
+    `key = next((k for k, v in my_dict.items() if v == value_to_find), None)`
